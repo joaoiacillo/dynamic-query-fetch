@@ -43,6 +43,7 @@ const client = fetch.create({
 - [Requiring](#requiring)
 - [Clients](#clients)
 - [Requests](#requests)
+- [Dynamic Parameters and Context Values](#dynamic-parameters-and-context-values)
 
 ### Requiring
 
